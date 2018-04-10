@@ -1,3 +1,8 @@
+.font{
+    font-family: 'Alegreya', serif;
+font-family: 'Stylish', sans-serif;
+}
+
 #container{
     position: absolute;
     top: 0;
